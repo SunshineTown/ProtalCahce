@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "portalcache",
+  "version": "${version}",
+  "authors": [
+    "extclp"
+  ],
+  "mixins": [
+    "portalCache.mixins.json"
+  ],
+  "depends": {
+    "minecraft": "1.14.x",
+    "fabricloader": "*"
+  }
+}
